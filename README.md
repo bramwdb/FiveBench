@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/fivebench-logo.png" width="120" alt="FiveBench">
+  <img src="assets/logo.png" width="120" alt="FiveBench">
 </p>
 
 <h1 align="center">FiveBench</h1>
