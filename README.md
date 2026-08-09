@@ -79,5 +79,5 @@ Join our Discord to:
 <br>
 
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="FiveBench Banner">
+  <img src="assets/banner.png" width="850" alt="FiveBench Banner">
 </p>
