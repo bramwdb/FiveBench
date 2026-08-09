@@ -75,3 +75,9 @@ Join our Discord to:
 **Discord:** [https://discord.gg/fivebench](https://discord.gg/fivebench)
 
 > **Built to manage. Powered to evolve.**
+
+<br>
+
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="FiveBench Banner">
+</p>
